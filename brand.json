@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "primary": "#104f25",
+    "accent": "#f07f3c",
+    "midgreen": "#006633",
+    "lightgreen": "#c8e1bf",
+    "dark1": "#5a7f4d",
+    "dark2": "#85a97c"
+  },
+  "font": "Outfit",
+  "slogan": "Steinbeck — Pædagogisk udvikling der virker i hverdagen",
+  "contact": {
+    "email": "jeanette@steinbeck.dk",
+    "phone": "+45 29 10 79 28",
+    "website": "steinbeck.dk"
+  }
+}
